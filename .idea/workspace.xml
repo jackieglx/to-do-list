@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770159d4-faa1-4252-aed7-c6f7598d1090" name="Changes" comment="" />
+    <list default="true" id="7f90cd97-8cbd-456d-bae4-7030cd19f1f3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +23,42 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="2eOZmFoXF73Ei5QVTR9IKeQdgy6" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2e6IFX5NPRb0na8dqf2Y4FV4zu6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,34 +68,117 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "onboarding.tips.debug.path": "D:/Users/xiao/Documents/GitHub/to-do-list/to-do-list/src/main/java/org/example/Main.java",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Users/xiao/Documents/GitHub/to-do-list",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="task_manager.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.User">
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_manager.controller.Methods" />
+      <module name="task-manager-x-5004.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_manager.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_manager.model.Task" />
+      <module name="task-manager-x-5004.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_manager.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_manager.controller.TaskController" />
+      <module name="task-manager-x-5004.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_manager.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_manager.controller.User" />
+      <module name="task-manager-x-5004.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_manager.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.User" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.TaskController" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="770159d4-faa1-4252-aed7-c6f7598d1090" name="Changes" comment="" />
-      <created>1711777744928</created>
+      <changelist id="7f90cd97-8cbd-456d-bae4-7030cd19f1f3" name="Changes" comment="" />
+      <created>1711218497596</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1711777744928</updated>
-      <workItem from="1711777746025" duration="22000" />
+      <updated>1711218497596</updated>
+      <workItem from="1711218498603" duration="609000" />
+      <workItem from="1711232635836" duration="334000" />
+      <workItem from="1711232984366" duration="1374000" />
+      <workItem from="1711234479128" duration="867000" />
+      <workItem from="1711333788697" duration="8794000" />
+      <workItem from="1711388043116" duration="3428000" />
+      <workItem from="1711422247597" duration="1049000" />
+      <workItem from="1711423857547" duration="8652000" />
+      <workItem from="1711435319933" duration="571000" />
+      <workItem from="1711463068951" duration="8329000" />
+      <workItem from="1711483720040" duration="8000" />
+      <workItem from="1711490821838" duration="147000" />
+      <workItem from="1711497773597" duration="593000" />
+      <workItem from="1711575008031" duration="6785000" />
+      <workItem from="1711587062874" duration="5961000" />
+      <workItem from="1711650937836" duration="822000" />
+      <workItem from="1711651861590" duration="3014000" />
+      <workItem from="1711669795472" duration="3059000" />
+      <workItem from="1711759330589" duration="9425000" />
+      <workItem from="1711769674788" duration="7769000" />
+      <workItem from="1711778132310" duration="765000" />
+      <workItem from="1711779009259" duration="419000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

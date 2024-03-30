@@ -1,2 +1,2 @@
-rootProject.name = "to-do-list"
+rootProject.name = "task-manager-x-5004"
 
